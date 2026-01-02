@@ -1,5 +1,9 @@
 # Config Manager for Laravel
 
+💰 Get Config Manager on Gumroad:
+https://daghini.gumroad.com/l/ifyzw
+
+
 ![PHP](https://img.shields.io/badge/PHP-%5E8.2-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-10%2B-red)
 ![License](https://img.shields.io/badge/License-Proprietary-black)

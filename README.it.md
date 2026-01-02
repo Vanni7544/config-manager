@@ -1,5 +1,9 @@
 # Config Manager per Laravel
 
+💰 Acquista e scarica Config Manager su Gumroad:
+https://daghini.gumroad.com/l/ifyzw
+
+
 Gestisci in modo sicuro più configurazioni `.env` nei tuoi progetti Laravel.
 
 Config Manager ti permette di **esportare, validare, applicare e ripristinare**
