@@ -1,8 +1,12 @@
 # Config Manager per Laravel
 
 💰 Acquista e scarica Config Manager su Gumroad:
-https://daghini.gumroad.com/l/ifyzw
+👉 [https://daghini.gumroad.com/l/ifyzw]
 
+![PHP](https://img.shields.io/badge/PHP-%5E8.2-blue)
+![Laravel](https://img.shields.io/badge/Laravel-10%2B-red)
+![License](https://img.shields.io/badge/License-Proprietary-black)
+![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)
 
 Gestisci in modo sicuro più configurazioni `.env` nei tuoi progetti Laravel.
 
@@ -80,7 +84,7 @@ php artisan config-manager:export <project-id> <environment-id>
 
 Questo comando genera un file:
 
-```
+```bash
 .env.config-manager
 ```
 
@@ -121,7 +125,7 @@ Config Manager mostra un **avviso chiaro** prima di applicare qualsiasi modifica
 
 I backup vengono salvati in:
 
-```
+```bash
 .env.backups/
 ```
 

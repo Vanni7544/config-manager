@@ -1,8 +1,7 @@
 # Config Manager for Laravel
 
-💰 Get Config Manager on Gumroad:
-https://daghini.gumroad.com/l/ifyzw
-
+💰 Get Config Manager on Gumroad:  
+👉 [https://daghini.gumroad.com/l/ifyzw]
 
 ![PHP](https://img.shields.io/badge/PHP-%5E8.2-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-10%2B-red)
@@ -77,7 +76,7 @@ php artisan config-manager:export <project-id> <environment-id>
 
 This generates:
 
-```
+```bash
 .env.config-manager
 ```
 
@@ -118,7 +117,7 @@ before anything is applied.
 
 Backups are stored in:
 
-```
+```bash
 .env.backups/
 ```
 
