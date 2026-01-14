@@ -26,7 +26,7 @@ while keeping the tool simple and intentional — *no magic, no hidden behavior.
 - Rollback of last applied `.env` (`--rollback`)
 - Backup retention limit
 - Support for Laravel 10 / 11 / 12
-- Commercial licensing & documentation
+- MIT & documentation
 
 Config Manager today already helps prevent:  
 ⚠ accidental overwrites  
@@ -194,17 +194,19 @@ Config Manager will always be:
 
 ## 💬 Feedback & Ideas
 
-If you purchased this software and want to suggest improvements,  
-please contact the author via the **same platform where you obtained it**  
-(e.g., Gumroad).
+If you use this software and would like to suggest improvements,
+you can contact the author through the **same platform where you obtained it**.
 
-GitHub issues and pull requests are intentionally disabled.
+GitHub issues and pull requests are intentionally disabled,
+to keep the project development coherent and intentional.
 
 ---
 
-## 📜 Licensing
+## 📜 License
 
-Config Manager is **commercial & proprietary software**.  
-Redistribution of source code is not permitted.
+This project is released under the **MIT License**.
 
-The English version of this document is the legally binding one.
+The source code may be used, modified, and redistributed
+in accordance with the terms of the MIT License.
+
+👉 **The English version of this document is the legally binding one.**

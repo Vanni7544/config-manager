@@ -1,12 +1,8 @@
 # Config Manager for Laravel
 
-💰 Get Config Manager on Gumroad:  
-👉 [https://daghini.gumroad.com/l/ifyzw]
-
 ![PHP](https://img.shields.io/badge/PHP-%5E8.2-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-10%2B-red)
-![License](https://img.shields.io/badge/License-Proprietary-black)
-![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Safely manage multiple `.env` configurations for your Laravel projects.
 
@@ -125,23 +121,14 @@ and handled automatically.
 
 ---
 
-## Support
+## 🛡 License
 
-This is a **commercial package**.
+This project is released under the **MIT License**.
 
-If you need help, please contact the author using
-the same platform where you purchased the software
-(e.g., Gumroad).
+The Base edition provides essential features for a safe
+and controlled management of `.env` files.
 
-GitHub issues and pull requests are **not accepted**.
+Advanced features such as audit logs, extended security checks,
+and guided workflows are available in **Config Manager Pro**.
 
----
-
-## License
-
-This software is **commercial and proprietary**.
-
-You MAY use it in your own personal or commercial projects.  
-You may NOT redistribute or publish the source code.
-
-The English version of this documentation is the legally valid version.
+👉 **The English version of this documentation is the legally valid one.**

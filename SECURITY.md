@@ -1,6 +1,7 @@
 # Security Policy
 
 ## Supported Versions
+
 Only the latest public release of Config Manager receives security updates.
 
 ## Reporting a Vulnerability

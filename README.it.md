@@ -1,12 +1,8 @@
 # Config Manager per Laravel
 
-💰 Acquista e scarica Config Manager su Gumroad:
-👉 [https://daghini.gumroad.com/l/ifyzw]
-
 ![PHP](https://img.shields.io/badge/PHP-%5E8.2-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-10%2B-red)
-![License](https://img.shields.io/badge/License-Proprietary-black)
-![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Gestisci in modo sicuro più configurazioni `.env` nei tuoi progetti Laravel.
 
@@ -143,7 +139,12 @@ e vengono gestiti automaticamente.
 
 ## 🛡 Licenza
 
-Questo software è **commerciale e proprietario**.  
-La redistribuzione del codice sorgente **non è consentita**.
+Questo progetto è rilasciato sotto **licenza MIT**.
+
+La versione Base fornisce funzionalità essenziali per una gestione
+sicura e controllata dei file `.env`.
+
+Funzionalità avanzate come audit, controlli di sicurezza estesi
+e flussi guidati sono disponibili nella **Config Manager Pro**.
 
 👉 **La versione inglese di questa documentazione è quella legalmente valida.**
